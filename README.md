@@ -1,4 +1,7 @@
-<<<<<<< HEAD
+# GITHUB 
+
+Hello, I am from remote.
+
 ## How to start
 
 ## Installation
@@ -22,6 +25,3 @@
 10. 6~9의 과정을 `fb-refactor`에 대해 한번 더 실시(if문 하나로 fizzbuzz 구현)
 
 '''
-=======
-
->>>>>>> fc426d433260e0491bb3de185ce443c4945361a4
