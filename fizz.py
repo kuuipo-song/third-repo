@@ -1,5 +1,7 @@
-for i in range(1, 15+1):
-    if i % 3 == 0:
-        print('fizz')
-    else:
-        print(i)
+def fizz(n):
+    if n % 3 == 0:
+        return "Fizz"
+    return str(n)
+
+print(fizz(3))
+
