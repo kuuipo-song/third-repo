@@ -1,13 +1,9 @@
-# Hello, I am from remote.
-
 ## How to start
 
 ## Installation
 
 ## Features
 
-
-'''bash
 
 ## Morning TODO
 
@@ -21,5 +17,3 @@
 8. github.com 에서 PR(Pull Request)를 생성하고 코드를 점검한 뒤, merge -> delete branch(remote, local)
 9. local main update (`$ git fetch origin main`, `$ git merge FETCH_HEAD`)
 10. 6~9의 과정을 `fb-refactor`에 대해 한번 더 실시(if문 하나로 fizzbuzz 구현)
-
-'''
