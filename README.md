@@ -1,6 +1,12 @@
 ## How to start
 
+'$ python fizzbuzz.py'
+
 ## Installation
+
+$ git clone {repo addr}
+$ cd third-repo
+
 
 ## Features
 

@@ -1,5 +1,8 @@
-for i in range(1, 15 + 1):
-    if i % 3 == 0 or i % 5 == 0:
-        print('fizz' * (i % 3 == 0) + 'buzz' * (i % 5 == 0))
-    else:
-        print(i)
+def fizzbuzz(n):
+    if n % 15 == 0: return "FizzBuzz"
+    elif n % 3 == 0: return "Fizz"  
+    elif n % 5 == 0: return "Buzz"
+    return str(n)
+
+for i in range(1, 16):
+    print(fizzbuzz(i))
