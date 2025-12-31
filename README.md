@@ -1,5 +1,3 @@
-# Hello, I am from remote.
-
 ## How to start
 
 '$ python fizzbuzz.py'
@@ -9,9 +7,7 @@
 $ git clone {repo addr}
 $ cd third-repo
 
-
 ## Features
-
 
 
 
