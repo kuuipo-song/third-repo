@@ -1,5 +1,3 @@
-# Hello, I am from remote.
-
 ## How to start
 
 '$ python fizzbuzz.py'
@@ -11,8 +9,6 @@ $ cd third-repo
 
 
 ## Features
-
-
 
 
 ## Morning TODO
